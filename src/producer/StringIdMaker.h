@@ -20,6 +20,7 @@
 #include <atomic>
 #include <cstdint>
 #include <string>
+#include <cstddef>
 
 namespace rocketmq {
 
